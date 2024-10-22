@@ -1,8 +1,4 @@
-
 # Summon Bot
-
-## Name
-**Summon Bot**
 
 ## Description
 Summon Bot is a Discord bot that allows users to tag specific individuals when certain keywords are detected in the chat. The bot can be configured to watch for a set of keywords, and when a match is found, it tags the designated person to notify them.
@@ -10,10 +6,6 @@ Summon Bot is a Discord bot that allows users to tag specific individuals when c
 ## Badges
 ![Python](https://img.shields.io/badge/python-3.8-blue)
 ![Discord](https://img.shields.io/badge/Discord.py-1.6.0-blue)
-
-## Visuals
-![Summon Bot Screenshot](https://via.placeholder.com/600x300.png?text=Summon+Bot+Screenshot)
-*Example of Summon Bot tagging a user when a keyword is detected.*
 
 ## Installation
 ### Prerequisites

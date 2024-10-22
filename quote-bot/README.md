@@ -51,8 +51,5 @@ Contributions are welcome. Please follow the guidelines below:
 ## Authors and acknowledgment
 Thanks to the open-source community for their inspiration and contributions to the Discord.py library.
 
-## License
-This project is licensed under the MIT License.
-
 ## Project status
 The bot is actively maintained, with new features planned for the future.

@@ -49,8 +49,5 @@ To contribute:
 ## Authors and acknowledgment
 Shoutout to the contributors who help improve the bot and the maintainers of the Discord.py library.
 
-## License
-Licensed under the MIT License.
-
 ## Project status
 Active development with ongoing improvements and new features planned.

@@ -66,8 +66,5 @@ Contributions are welcome for both bots. To contribute:
 ## Authors and acknowledgment
 Special thanks to the open-source community for supporting the development of these bots.
 
-## License
-This project is licensed under the MIT License.
-
 ## Project status
 Both bots are actively maintained, with plans for future updates and improvements.

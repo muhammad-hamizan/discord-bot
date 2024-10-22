@@ -1,8 +1,4 @@
-
 # Quote Bot
-
-## Name
-**Quote Bot**
 
 ## Description
 Quote Bot is a Discord bot that sends inspirational quotes or uplifting messages when users express sadness in chat. The bot can detect sad phrases and respond with encouraging words from a predefined list or quotes from an external API. Users can also add or delete custom encouraging messages.

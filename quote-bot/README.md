@@ -11,10 +11,6 @@ Quote Bot is a Discord bot that sends inspirational quotes or uplifting messages
 ![Python](https://img.shields.io/badge/python-3.8-blue)
 ![Discord](https://img.shields.io/badge/Discord.py-1.6.0-blue)
 
-## Visuals
-![Quote Bot Screenshot](https://via.placeholder.com/600x300.png?text=Quote+Bot+Screenshot)
-*Example of Quote Bot responding with an encouraging quote.*
-
 ## Installation
 ### Prerequisites
 - Python 3.8+
